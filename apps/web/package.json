@@ -33,7 +33,7 @@
     "@open-design/platform": "workspace:0.3.0",
     "@open-design/sidecar": "workspace:0.3.0",
     "@open-design/sidecar-proto": "workspace:0.3.0",
-    "next": "^16.2.4",
+    "next": "^16.4.1",
     "openai": "^6.35.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
